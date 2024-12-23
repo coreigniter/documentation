@@ -1,0 +1,2 @@
+# documentation
+CoreIgniter Documentation
